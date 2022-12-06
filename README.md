@@ -1,1 +1,1 @@
-# csci7850-f22-donorClassification
+# CSCI 7850 Deep Learning Semester Project - Donor Classification and Categorization
