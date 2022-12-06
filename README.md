@@ -6,7 +6,7 @@ This project seeks to classify MTSU alumni as donors and non-donors using basic 
 <div align="center">
 | Class | Average Giving Amount (AG)|
 | --- | ----------- |
-| Class 0  | AG $\leq$ \$10 |
+| Class 0  | AG  $10 |
 | Class 1  | Text |
 | Class 2  | Text |
 | Class 3  | Text |
