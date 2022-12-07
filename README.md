@@ -20,6 +20,6 @@ Due to the confidentiality and sensitivity of information, the alumni data for t
 
 To access the demo, clone the repository and navigate to the demo folder. The demo is implemented using a python notebook, and therefore, an IDE that can run this file is essential to the demo. 
 
-Once downloaded, the donor classification demo (`demo-donorClassification.ipynb`) and the donor categorization demo (`demo-donorCategorization.ipynb`) should be immediately ready for testing. The files contain functions for downloading the survey data, an interface for entering in alumni data, and steps for preprocessing the data to prepare for model testing. 
+Once downloaded, the donor classification demo (`demo-donorClassification.ipynb`) and the donor categorization demo (`demo-donorCategorization.ipynb`) should be immediately ready for testing. The files contain functions for downloading the survey data and trained models, an interface for entering in alumni data, and steps for preprocessing the data to prepare for model testing. 
 
 When run end-to-end, the first demo should provide a non-donor or donor classification for the given alumni information, and the second should provide a category for average donor giving for an alumni.
